@@ -1,4 +1,4 @@
-use ticket_fields::{TicetDescription, TicketTitle};
+use ticket_fields::{TicketDescription, TicketTitle};
 
 // TODO: Implement the `IntoIterator` trait for `&TicketStore` so that the test compiles and passes.
 #[derive(Clone)]
